@@ -1,8 +1,0 @@
-git demo:
-
-git config user.username "username"
-
-git remote add origin "git link"
-
-git push origin master
-
